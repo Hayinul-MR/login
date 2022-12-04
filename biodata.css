@@ -1,0 +1,21 @@
+h3 {
+    font-family: 'Lucida Sans'; 
+    line-height: 2px; 
+    font-size: 18px; 
+    color: rgb(138, 244, 17);
+}
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: rgb(6, 245, 201);
+}
+p {
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 18px; 
+    color: rgb(42, 4, 170);
+}
+
+a {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px; 
+    color: rgb(246, 14, 14);
+}
